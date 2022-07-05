@@ -1,5 +1,5 @@
 {
-    "name": "Printful/printful-prestashop-integration",
+    "name": "printful/printful-prestashop-integration",
     "description": "This module provides integration with Printful",
     "autoload": {
         "psr-4": {
